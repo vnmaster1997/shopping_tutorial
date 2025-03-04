@@ -27,5 +27,28 @@ namespace Shopping_Tutorial.Controllers
         {
             return View("~/Views/Checkout/Index.cshtml");
         }
+        public async Task<IActionResult> Decrease(int Id)
+        {
+            List<CartItemModel> cart = HttpContext.Session.GetJson<List<CartItemModel>>("Cart");
+            CartItemModel cartItem = cart.Where(p => p.ProductId == Id).FirstOrDefault();
+            if(cartItem.Quantity > 1)
+            {
+                --cartItem.Quantity;
+            }
+            else
+            {
+                cart.RemoveAll(p => p.ProductId == Id);
+            }
+            if(cart.Count == 0)
+            {
+                HttpContext.Session.Remove("Cart");
+            }
+            else
+            {
+                HttpContext.Session.SetJson("Cart", cart);
+            }
+            return RedirectToAction("Index");
+        }
     }
+
 }
