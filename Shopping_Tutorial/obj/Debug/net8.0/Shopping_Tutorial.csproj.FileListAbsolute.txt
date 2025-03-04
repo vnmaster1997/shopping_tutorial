@@ -295,3 +295,4 @@ D:\Projects\ASP.NET\shopping_tutorial\Shopping_Tutorial\obj\Debug\net8.0\refint\
 D:\Projects\ASP.NET\shopping_tutorial\Shopping_Tutorial\obj\Debug\net8.0\Shopping_Tutorial.pdb
 D:\Projects\ASP.NET\shopping_tutorial\Shopping_Tutorial\obj\Debug\net8.0\Shopping_Tutorial.genruntimeconfig.cache
 D:\Projects\ASP.NET\shopping_tutorial\Shopping_Tutorial\obj\Debug\net8.0\ref\Shopping_Tutorial.dll
+D:\2. IT\Project\NET\Shopping_Tutorial\Shopping_Tutorial\obj\Debug\net8.0\Shopping_Tutorial.sourcelink.json
