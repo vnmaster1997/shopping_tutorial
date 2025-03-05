@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2. IT\\Project\\NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {}
+    "D:\\Projects\\ASP.NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {}
   },
   "projects": {
-    "D:\\2. IT\\Project\\NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {
+    "D:\\Projects\\ASP.NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2. IT\\Project\\NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+        "projectUniqueName": "D:\\Projects\\ASP.NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
         "projectName": "Shopping_Tutorial",
-        "projectPath": "D:\\2. IT\\Project\\NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
-        "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-        "outputPath": "D:\\2. IT\\Project\\NET\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\",
+        "projectPath": "D:\\Projects\\ASP.NET\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+        "packagesPath": "C:\\Users\\namnv\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASP.NET\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "G:\\NET\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\namnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
